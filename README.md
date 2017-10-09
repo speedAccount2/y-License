@@ -1,2 +1,2 @@
 # y-License
-License for servers using y-anticrash
+License for servers using my plugins
